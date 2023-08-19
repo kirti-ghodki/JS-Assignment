@@ -91,3 +91,8 @@
     color: rgba(0, 0, 0, 0.8);
     color: white;
 }
+
+#btn-place-order a{
+    text-decoration: none;
+    color: white;
+}
